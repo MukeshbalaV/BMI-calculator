@@ -5,6 +5,7 @@ Certainly! Here's a basic template for your README.md file for your BMI Calculat
 # BMI Calculator with ReactJS and Vite
 
 This project is a simple Body Mass Index (BMI) calculator built using ReactJS and Vite. It allows users to calculate their BMI based on their weight and height inputs. BMI is a measure of body fat based on height and weight that applies to adult men and women.
+https://66178f02a5c6bf52512115b6--benevolent-lebkuchen-0131ca.netlify.app/
 
 ## Features
 
